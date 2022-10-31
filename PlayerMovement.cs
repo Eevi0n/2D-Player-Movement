@@ -22,8 +22,6 @@ public class PlayerMovement : MonoBehaviour
     //speed player jumps
     public float jumpForce = 14f;
 
-    public SpeedPlatform boost;
-
 
 
     //deals with animation
